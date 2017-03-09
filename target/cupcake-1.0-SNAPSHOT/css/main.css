@@ -1,0 +1,75 @@
+body{
+    background-image: url("");
+}
+
+.btn-default{
+    color: #333333;
+    background-color: #ffbebe;
+    border-color: #ffbebe;
+}
+
+.btn-default:hover{
+    background-color: #ffdcdc;
+    border-color: #ffbebe;
+}
+
+.navbar {
+  margin-bottom: 0px;
+  border-radius: 0;
+  border-color: #ffffff;
+}
+
+.jumbotron {
+  margin-bottom: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.panel-body {
+    padding: 0;
+}
+
+.panel-heading {
+    padding-top: 5px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+}
+
+.checkbox {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.radio {
+    padding-top: 0px;
+    padding-right: 15px;
+    padding-bottom: 0px;
+    padding-left: 15px;
+    margin: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.panel-success{
+    border-color:#ffbebe;
+}
+
+.panel-success>.panel-heading{
+    background-color: #ffbebe;
+    border-color: #ffbebe;
+    color:#333333;
+}
+
+.panel-footer {
+    padding-top: 5px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    border-top: 0px;
+}
+
+footer {
+  background-color: #f2f2f2;
+  padding: 25px;
+}
